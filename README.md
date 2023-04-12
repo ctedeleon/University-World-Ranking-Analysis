@@ -1,11 +1,13 @@
-# University-World-Ranking-Analysis
+# University-World-Ranking-Analysis 
+![alt text](https://us.123rf.com/450wm/jemastock/jemastock1906/jemastock190659336/125401673-back-to-school-education-backpack-and-books-with-pencils-in-cup-and-world-globe-cartoons-vector.jpg?ver=6)
+
 Final analysis project for the Data Immersion Achievement for the Career Foundry Data Analytics course
 
 ### Project Goals
 This analysis project focused on comparing three distinguished university world ranking systems and determining if specific factors can be used for estimating the world rank of a university. 
 
 ### Data Sources
-Three university world ranking systems were used: Center for World University Rankings (CWUR), the Academic Ranking of World Universities (ARWU), and the Times Higher Education (THE). These data sets were downloaded from Kaggle (https://www.kaggle.com/datasets/mylesoneill/world-university-rankings). Each ranking systems utilizes different variables or factors for determining a university's status. Some examples of factors include: quality of faculty, research output, number of publications, teaching score, alumni employment, number of citations, and quality of education. 
+Three university world ranking systems were used: Center for World University Rankings (CWUR), the Academic Ranking of World Universities (ARWU), and the Times Higher Education (THE). These data sets were downloaded from Kaggle (https://www.kaggle.com/datasets/mylesoneill/world-university-rankings). Each ranking systems utilizes different variables or factors for determining a university's status. Some examples of factors include: quality of faculty, research output, number of publications, teaching score, alumni employment, number of citations, and quality of education. A geojson file was used to incorporate a geographical component for spatial analysis. The file was obtained from https://datahub.io/core/geo-countries#resource-countries. 
 
 ### Workflow 
 1. Exploratory Data Analysis 
