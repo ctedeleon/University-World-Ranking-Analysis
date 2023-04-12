@@ -37,7 +37,7 @@ Three university world ranking systems were used: Center for World University Ra
 3. How does the university score change over time? 
 
 ### Scripts 
-Only some scripts were uploaded onto GitHub (due to size issues). The scripts included discuss cleaning the data sets (i.e. checking for data types, missing values, and duplicates), supervised machine learning (regression analysis), unsupervised machine learning (cluster analysis), and spatial analysis (choropleth maps for the ARWU data set only). 
+Only some scripts were uploaded onto GitHub (due to size issues). The scripts included discuss cleaning the data sets (i.e. checking for data types, missing values, and duplicates), supervised machine learning (regression analysis), unsupervised machine learning (cluster analysis), and spatial analysis (choropleth maps for the ARWU and Times data sets only). 
 
 ### Link to Tableau Storyboard
 https://public.tableau.com/app/profile/christina.deleon/viz/6_7WorldRankingofUniversities/WorldRankingofUniversities?publish=yes
